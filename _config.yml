@@ -20,10 +20,10 @@ timezone: America/Toronto
 
 title: Ali.net # the main title
 
-tagline: All things Ali # it will display as the sub-title
+tagline: Ali's adventures in blogging # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A minimalist blog from a guy.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://ali-h-abbas.github.io/"
@@ -85,11 +85,11 @@ avatar: https://media.licdn.com/dms/image/C4D03AQHzosJjEISqsg/profile-displaypho
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+comments: 
+  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: alabb # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
